@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Release\T R O L L I N G.exe.config
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\Interop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T R O L L I N G.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Release\T R O L L I N G.exe
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Release\T R O L L I N G.pdb
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Release\Interop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Release\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T R O L L I N G.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T_R_O_L_L_I_N_G.Form1.resources
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T_R_O_L_L_I_N_G.Form2.resources
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T_R_O_L_L_I_N_G.Properties.Resources.resources
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T R O L L I N G.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T R O L L I N G.exe
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Release\T R O L L I N G.pdb

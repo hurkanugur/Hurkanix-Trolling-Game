@@ -1,0 +1,64 @@
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe.config
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Form1.resources
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Properties.Resources.resources
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.pdb
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.exe
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.pdb
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Form2.resources
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe.config
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.exe
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.pdb
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.pdb
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Properties.Resources.resources
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game2.resources
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game3.resources
+C:\Users\dell\Desktop\Harry Potter\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game1.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game2.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game3.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game1.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe.config
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\T R O L L I N G.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\bin\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csprojAssemblyReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.ResolveComReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game2.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game3.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Game1.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T_R_O_L_L_I_N_G.Properties.Resources.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.GenerateResource.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.csproj.CoreCompileInputs.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\T R O L L I N G\T R O L L I N G\obj\Debug\T R O L L I N G.pdb
